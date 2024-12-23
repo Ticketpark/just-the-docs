@@ -64,3 +64,8 @@ h4,
 .main-content{
     max-width: 90% !important;
 }
+@media (min-width: 46.25rem) {
+    .main-content {
+        max-width: 90% !important;
+    }
+}
